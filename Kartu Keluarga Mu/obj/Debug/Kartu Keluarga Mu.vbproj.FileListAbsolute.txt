@@ -1,0 +1,51 @@
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu\Kartu Keluarga Mu\bin\Debug\Kartu Keluarga Mu.exe.config
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu\Kartu Keluarga Mu\bin\Debug\Kartu Keluarga Mu.exe
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu\Kartu Keluarga Mu\bin\Debug\Kartu Keluarga Mu.pdb
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu\Kartu Keluarga Mu\bin\Debug\Kartu Keluarga Mu.xml
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu\Kartu Keluarga Mu\obj\Debug\Kartu_Keluarga_Mu.Form1.resources
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu\Kartu Keluarga Mu\obj\Debug\Kartu_Keluarga_Mu.Resources.resources
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.exe
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.xml
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.pdb
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu\Kartu Keluarga Mu\bin\Debug\Kartu Keluarga Mu.exe.manifest
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu\Kartu Keluarga Mu\bin\Debug\Kartu Keluarga Mu.application
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.exe.manifest
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.application
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 1 tbl\Kartu Keluarga Mu\bin\Debug\Kartu Keluarga Mu.exe.config
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 1 tbl\Kartu Keluarga Mu\bin\Debug\Kartu Keluarga Mu.exe.manifest
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 1 tbl\Kartu Keluarga Mu\bin\Debug\Kartu Keluarga Mu.application
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 1 tbl\Kartu Keluarga Mu\bin\Debug\Kartu Keluarga Mu.exe
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 1 tbl\Kartu Keluarga Mu\bin\Debug\Kartu Keluarga Mu.pdb
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 1 tbl\Kartu Keluarga Mu\bin\Debug\Kartu Keluarga Mu.xml
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 1 tbl\Kartu Keluarga Mu\obj\Debug\Kartu_Keluarga_Mu.Form1.resources
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 1 tbl\Kartu Keluarga Mu\obj\Debug\Kartu_Keluarga_Mu.Resources.resources
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 1 tbl\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 1 tbl\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 1 tbl\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.exe.manifest
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 1 tbl\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.application
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 1 tbl\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.exe
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 1 tbl\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.xml
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 1 tbl\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.pdb
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 1 tbl\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\bin\Debug\Kartu Keluarga Mu.exe.config
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\bin\Debug\Kartu Keluarga Mu.exe.manifest
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\bin\Debug\Kartu Keluarga Mu.application
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\bin\Debug\Kartu Keluarga Mu.exe
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\bin\Debug\Kartu Keluarga Mu.pdb
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\bin\Debug\Kartu Keluarga Mu.xml
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\obj\Debug\Kartu_Keluarga_Mu.Form1.resources
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\obj\Debug\Kartu_Keluarga_Mu.Resources.resources
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.exe.manifest
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.application
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.exe
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.xml
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\obj\Debug\Kartu Keluarga Mu.pdb
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\obj\Debug\Kartu_Keluarga_Mu.FormTambahKKBaru.resources
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\obj\Debug\Kartu_Keluarga_Mu.FormTambahWarga.resources
+C:\Users\Administrator\source\repos\Kartu Keluarga Mu - ok 2 tbl\Kartu Keluarga Mu\obj\Debug\Kartu_Keluarga_Mu.FormListKK.resources
